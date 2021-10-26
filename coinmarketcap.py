@@ -1,4 +1,4 @@
-##모듈 호출을 안하려고 requests 모듈에서  request, session 함수를 특정하여 불러옴
+#requests 모듈에서  request, session 함수를 특정하여 불러옴
 from requests import Request, Session
 #from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 
